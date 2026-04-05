@@ -33,7 +33,7 @@ O caderno interativo com todos os cruzamentos de dados entre os PDFs da FIAP e a
 
 👉 [Aceder ao meu Caderno Temático (NotebookLM)](https://notebooklm.google.com/notebook/b9015f5c-27c2-4fc9-a58b-86de71d92c01)
 
-## 📖 Miniguia de Estudo
+## 📖 Resumo & Miniguia de Estudo 
 
 ### Resumo do Cenário Cloud 2026
 Em 2026, a computação em nuvem consolidou-se como a espinha dorsal dos sistemas de software modernos, impulsionando desde startups até empresas globais. O mercado é dominado pela AWS (líder absoluta) e pelo Microsoft Azure, que mantém forte presença corporativa.
